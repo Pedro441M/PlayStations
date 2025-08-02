@@ -21,4 +21,4 @@ A página funciona em qualquer dispositivo, celular, tablet ou computador. O lay
 
 ## 🔗 Link para acessar
 
-👉 [playstation-devclube.netlify.app](playstation-devclube.netlify.app)
+👉 [https://pedro441m.github.io/PlayStations/](https://pedro441m.github.io/PlayStations/)
